@@ -44,6 +44,7 @@ The project consists of a single file:
 ├── graphs/
 │   ├── graph1.png         # Graph of Percentage of candidates with high criminal records
 │   ├── graph2.png         # Graph of Percentage of candidates with high wealth
+│   └── graph3.png         # Graph of education level of candidates
 ├── prediction.py          # Main source file for the program
 └── README.md              # README file containing project information
 
