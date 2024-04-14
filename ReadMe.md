@@ -50,7 +50,7 @@ The project consists of a single file:
 
 1. **Clone the Repository**: Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, execute the following command to clone the repository:
 ```
-https://github.com/nrithika/CS253_Python.git
+git clone https://github.com/nrithika/CS253_Python.git
 ```
 
 2. **Navigate to the Directory**: Change your current directory to the cloned `CS253_Python` directory
